@@ -40,6 +40,7 @@ Analyze and compare the performance of major ETFs (SPY, QQQ, GLD, ^VIX) using Py
 | GLD    | Gold Trust (Commodity)  |
 | ^VIX   | Volatility Index (CBOE) |
 
+
 ---
 
 ## 🧠 Key Features
@@ -49,6 +50,31 @@ Analyze and compare the performance of major ETFs (SPY, QQQ, GLD, ^VIX) using Py
 * Compare normalized performance of multiple assets
 * Generate visual KPI summary: return %, volatility, current price
 * Draw meaningful investment insights and patterns
+
+---
+
+## 📷 Visual Overview
+
+### 📈 SPY Closing Price
+![SPY Closing Price](img/spy_closing_price.png)
+
+### 📉 SPY Trading Volume
+![SPY Volume](img/spy_volume.png)
+
+### 📊 Normalized ETF Performance
+![Normalized Performance](img/etf_comparison_normalized.png)
+
+### 🔁 SPY Moving Averages
+![SPY MA](img/spy_moving_averages_multi.png)
+
+### 🔁 QQQ Moving Averages
+![QQQ MA](img/qqq_moving_averages.png)
+
+### 🔁 GLD Moving Averages
+![GLD MA](img/gld_moving_averages.png)
+
+### 📊 KPI Summary
+![ETF KPI Summary](img/etf_kpi_summary.png)
 
 ---
 
